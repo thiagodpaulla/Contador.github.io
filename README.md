@@ -7,7 +7,7 @@
 ## Feel free to interact with the project at the link:
  https://thiagodpaulla.github.io/contador.github.io/.
 
-##Stretch a little more and, know a little more than I've been doing:
+## Stretch a little more and, know a little more than I've been doing:
 https://thiagodpaulla.github.io/
 
 
@@ -16,7 +16,7 @@ https://thiagodpaulla.github.io/
  * [License](#license)
 
 # Projeto
-
+💻
 Page that performs the sequential count and displays on the screen Web application made in Vscode, using HTML, Java Script, Css that calculates the existing values between the range of two numbers informed by the user and displays the sequence on the screen.
 
 Here it was possible to train:
