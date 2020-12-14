@@ -2,6 +2,7 @@
 
 # Olá e seja bem vindo ao  meu repositório
 ## Conheça  o projeto Tabuada.
+https://github.com/thiagodpaulla/contador.github.io/blob/main/CONTADOR%20SEQUENCIAL.gif
 
  https://thiagodpaulla.github.io/contador.github.io/.
 
