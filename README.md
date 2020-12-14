@@ -1,45 +1,40 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodepaulla/)](https://www.linkedin.com/in/thiagodepaulla/)   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodpaulla)](https://github.com/thiagodpaulla)
 
-# Olá e seja bem vindo ao  meu repositório
-## Conheça  o projeto Tabuada.
+# Hello and welcome to my repository
+## Meet Counter with java script
 ![](https://github.com/thiagodpaulla/contador.github.io/blob/main/CONTADOR%20SEQUENCIAL.gif)
 
-
+## Feel free to interact with the project at the link:
  https://thiagodpaulla.github.io/contador.github.io/.
 
-## Estique mais um pouquinho e conheça um pouco mais do que ando fazendo:
+##Stretch a little more and, know a little more than I've been doing:
 https://thiagodpaulla.github.io/
 
 
-### Entenda um pouco mais sobre como foi criado.
-
-<!--ts-->
- * [Projeto](#projeto)  
- * [Tecnologias](#tecnologias) 
- * [Licença](#licença) 
- <!--te-->
+ * [Project](#project)
+ * [Technologies](#technologies)
+ * [License](#license)
 
 # Projeto
 
-Pagina que realiza a contagem sequencial e exibe na tela Aplicação web feita no Vscode, usando HTML, Java Script, Css que calcula os valores existentes entre no intervalo de dois números informados pelo usuário e exibe na tela, a sequencia.
+Page that performs the sequential count and displays on the screen Web application made in Vscode, using HTML, Java Script, Css that calculates the existing values between the range of two numbers informed by the user and displays the sequence on the screen.
 
-Aqui foi possível treinar:
+Here it was possible to train:
 
-Estruturas de repetição for, if, else,
+Repeating structures for, if, else,
 
-Operações matemáticas dentro do Java Script,
+Mathematical operations within Java Script,
 
-Estruturas condicionais a operações matemáticas ,
+Structures conditional to mathematical operations,
 
-Como inserir emojis no Java Script.
+How to insert emojis in Java Script.
 
 #javascript #html #css #vscode
 
 
+# Technologies
 
-# Tecnologias
-
-🚀 O projeto foi desenvolvido usando as seguintes tecnologias
+🚀 The project was developed using the following technologies
 
 
 ➜ JavaScript
@@ -49,7 +44,5 @@ Como inserir emojis no Java Script.
 ➜ CSS
 
 
-# Licença
-📂 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
- 
-
+# License
+📂 Distributed under the MIT license. See LICENSE for more information.
